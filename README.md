@@ -14,4 +14,4 @@ Clientend consists of Android, Blackberry, iOS, Bada client, Web integration SDK
 
 License
 
-MIT: http://rem.mit-license.org
+MIT
