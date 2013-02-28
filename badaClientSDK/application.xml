@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Application>
+    <Entry>BadaFaceBook</Entry>
+    <Name>
+        <English>BadaFaceBook</English>
+        <eng-GB>BadaFaceBook</eng-GB>
+    </Name>
+    <Vendor>SISO</Vendor>
+    <Description>Facebook Application</Description>
+    <Icons>
+        <MainMenu>BadaFaceBook_type4.png<Type1/>
+            <Type2/>
+            <Type3>BadaFaceBook_type3.png</Type3>
+            <Type4>BadaFaceBook_type4.png</Type4>
+            <Type5>BadaFaceBook_type5.png</Type5>
+        </MainMenu>
+        <Setting/>
+        <Ticker/>
+        <QuickPanel/>
+        <LaunchImage>Splash_type4.png<Type1/>
+            <Type2/>
+            <Type3>Splash_type3.png</Type3>
+            <Type4>Splash_type4.png</Type4>
+            <Type5>Splash_type5.png</Type5>
+        </LaunchImage>
+    </Icons>
+    <AutoScaling>
+        <Enabled>true</Enabled>
+        <BaseResolution>NormalSize</BaseResolution>
+    </AutoScaling>
+</Application>
