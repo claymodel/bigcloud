@@ -12,3 +12,5 @@ dena sdk apis.
 
 Clientend consists of Android, Blackberry, iOS, Bada client, Web integration SDKs.
 
+
+MIT License
